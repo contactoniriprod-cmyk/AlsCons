@@ -10,6 +10,6 @@
 </style>
 </head>
 <body>
-  <video src="videos/alsace-construction.mp4" autoplay muted loop playsinline preload="auto"></video>
+  <video src="alsace-construction.mp4" autoplay muted loop playsinline preload="auto"></video>
 </body>
 </html>
